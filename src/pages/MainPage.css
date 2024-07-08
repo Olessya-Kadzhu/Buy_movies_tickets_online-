@@ -1,0 +1,19 @@
+.Location_wrapper{  
+    background-color: rgb(11, 11, 56);
+}
+.location{
+    gap: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.Adv_title, .Movie_card_title{
+    background-color: rgb(11, 11, 56);
+    display: flex;
+    color: aliceblue;
+    padding: 12px;
+}
+
+

@@ -1,0 +1,18 @@
+.header {
+    background-color: rgb(11, 11, 56);
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+.header img {
+    width: 100px;
+    height: 100px;
+    border-radius: 56px;
+}
+
+.header-title{
+    color: aliceblue;
+   
+}
